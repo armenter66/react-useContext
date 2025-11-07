@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"Name": "John",
+		"LastName": "Doe",
+		"phoneNumber": "+1-202-555-0143"
+	},
+	{
+		"id": 2,
+		"Name": "Maria",
+		"LastName": "Ivanova",
+		"phoneNumber": "+380-67-123-4567"
+	},
+	{
+		"id": 3,
+		"Name": "Liu",
+		"LastName": "Wang",
+		"phoneNumber": "+86-10-8888-7777"
+	},
+	{
+		"id": 4,
+		"Name": "Ana",
+		"LastName": "Silva",
+		"phoneNumber": "+55-11-91234-5678"
+	},
+	{
+		"id": 5,
+		"Name": "Oleg",
+		"LastName": "Zhereb",
+		"phoneNumber": "+380-97-333-4554"
+	}
+]
