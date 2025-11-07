@@ -34,7 +34,7 @@ function App() {
 
   useEffect(() => {
         const loadData = async ()=> {
-          const response = await fetch('/contacts.json');
+          const response = await fetch('./contacts.json');
           const result = await response.json();
           setContacts(result);
           localStorage.setItem('contacts', JSON.stringify(result))
